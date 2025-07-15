@@ -1,5 +1,5 @@
 import { useState } from "react";
-import AnimalShow from "./AnimalShow";
+import AnimalShow from "./animalShow";
 
 function getRandomAnmial() {
   const animals = ["bird", "cat", "cow", "dog", "gator", "horse"];
